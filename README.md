@@ -6,4 +6,4 @@
 
 
 ### Site Diagram
-![](https://github.com/harf1n/09-19-front-end/assets/100131883/3e09ed62-1ddd-423e-83f1-22aa379eb042)
+![image](https://github.com/WNikitaW/Front-End/assets/89539519/a39872d1-0d31-4379-93ff-46eafd9ae304)
